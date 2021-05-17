@@ -1,3 +1,4 @@
+# Earthquake_Prediction
 ## About The Project
 
 [\* This was an academic project.]
