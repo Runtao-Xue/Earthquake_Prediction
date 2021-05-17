@@ -57,6 +57,6 @@ Project Link: https://github.com/Runtao-Xue/Earthquake_Prediction
 
 ## Acknowledgements
 
-* Professor: Yingjie Zhang
+* Professor: Yingjie Zhang, PhD
 * Group member: Tong Liu, Jiexuan Du
 
