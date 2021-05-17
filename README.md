@@ -35,7 +35,7 @@ What we do is using these data to forecast the occurrence time of next mini-eart
 1. Clone the repo
 
    ```
-   https://github.com/Runtao-Xue/Earthquake_Prediction
+   git clone https://github.com/Runtao-Xue/Earthquake_Prediction
    ```
 
 2. Install packages
